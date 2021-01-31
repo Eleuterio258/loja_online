@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928853610757",
+    "firebase_url": "https://siga-adfab.firebaseio.com",
+    "project_id": "siga-adfab",
+    "storage_bucket": "siga-adfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928853610757:android:c65dfa65220e975081276c",
+        "android_client_info": {
+          "package_name": "com.enigma.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928853610757-lea9a219baokq9ahkg8fafrje033hp7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySibj5-uRkOoCttGv0iEAlPlfOxGBLiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928853610757-lea9a219baokq9ahkg8fafrje033hp7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
